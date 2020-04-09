@@ -1,0 +1,12 @@
+Tamanho: 8,5 x 5
+2 cartas de cada cor menos o 0
+4 cartas +4 e 4 cartas de mudar de cor
+cores: amarelo, verde, azul, vermelho
+
+
+
+
+verde: 46ba01
+azul: 00508d
+amarelo: ffcd00
+vermelho: d31a00
